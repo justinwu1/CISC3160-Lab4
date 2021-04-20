@@ -1,0 +1,11 @@
+// Write a bubble sort function, the parameter will use an array, and the length of that array
+	// Write a for loop to loop through each array in the array
+		// Write a second for loop to loop through every element for every single element
+			// if arr[firstElement] > arr[firstElement + 1 index] 
+				// Swap  them
+// Test it in the main function
+	// Create an array
+	// Find the length of the array using sizeof
+	// Sort it
+	// Print it out using a loop
+	

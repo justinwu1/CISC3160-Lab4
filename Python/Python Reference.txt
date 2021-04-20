@@ -1,0 +1,2 @@
+Official Documentation: https://www.python.org/
+Basic Tutorials: https://www.w3schools.com/python/

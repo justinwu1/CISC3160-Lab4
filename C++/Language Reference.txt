@@ -1,0 +1,2 @@
+C++ Basic Tutorials, Tutorial Point: https://www.tutorialspoint.com/cplusplus/index.htm
+C++ Basic Tutorials, W3SCchools: https://www.w3schools.com/cpp/
